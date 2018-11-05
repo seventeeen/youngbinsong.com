@@ -1,6 +1,6 @@
 {
   "name": "youngbinsong.com",
-  "short_name": "youngbinsong.com",
+  "short_name": "YBS.com",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "background_color": "#A593E0",
+  "theme_color": "#A593E0"
 }
